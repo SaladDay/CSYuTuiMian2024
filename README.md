@@ -35,7 +35,7 @@
 
 ~~【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
-【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
+~~【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
 ~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
 
@@ -47,26 +47,29 @@
 
 ## 浙江大学
 
+> [浙江大学关于2025年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+
 【报名截止：9.3 15:00】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
 
 【报名截止：9.10】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
 ## 哈尔滨工业大学
 
 > [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
+
 > [哈尔滨工业大学（威海）关于接收 2025年推免生（含直博生）工作的通知](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
 ~~【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
-【截止日期：8.8】[苏州研究院](https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm)
+~~【截止日期：8.8】[苏州研究院](https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm)~~
 
 【截止日期：8.25 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
-## 浙江大学
-
-> [浙江大学关于2025年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
 ## 南京大学
 
@@ -98,11 +101,11 @@
 
 ## 中国人民解放军军事科学院
 
-【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+~~【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
 
 ## 空军工程大学
 
-【截止日期：8.8 18：00】[空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)
+~~【截止日期：8.8 18：00】[空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
 ## 海军工程大学
 
@@ -137,6 +140,8 @@
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
 【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
+【截止日期：8.30】[天津大学2025级卓越工程师导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
@@ -188,7 +193,7 @@
 
 ## 南京邮电大学
 
-【报名截止：8.8】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+~~【报名截止：8.8】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
 ~~【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
